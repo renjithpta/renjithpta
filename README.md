@@ -8,5 +8,5 @@ About me:
 - 🤔 I'm looking for Good Projects.
 - 💬 Ask me about distributed architecture, web technologies etc
 - 📫 Reach me  at renjithkn@gmail.com
-- ⚡ Fun fact: Watching movies,Love playing cricket
+- ⚡ Fun fact: Watching movies,Loves playing cricket
 
