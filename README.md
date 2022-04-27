@@ -1,6 +1,6 @@
 ### Hi there, I am Renjith K N 👋
 
-Here are some ideas to get you started:
+About me:
 
 - 🔭 I’m currently working on Java/J2EE, Hyperledger Fabric, Etherum , etc
 - 🌱 I’m currently learning whatever new thing is unknown to me.
