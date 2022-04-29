@@ -10,3 +10,5 @@ About me:
 - 📫 Reach me  at renjithkn@gmail.com
 - ⚡ Fun fact: Watching movies,Loves playing cricket
 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mbcse)  
