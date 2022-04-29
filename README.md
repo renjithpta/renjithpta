@@ -2,7 +2,7 @@
 
 About me:
 
-- 🔭 I’m currently working on Java/J2EE, Hyperledger Fabric, Etherum , etc
+- 🔭 I’m currently working on application architecture based on  Java/J2EE, Hyperledger Fabric, Etherum , etc
 - 🌱 I’m currently learning whatever new thing is unknown to me.
 - 👯 I’m open to collaborate on Blockchain technology, Ethereum and Hyperledger.
 - 🤔 I'm looking for Good Projects.
