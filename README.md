@@ -20,4 +20,7 @@ About me:
 
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renjithpta&show_icons=true&locale=en" alt="renjithpta" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renjithpta&" alt="mbcse" /></p>
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=renjithpta)  
