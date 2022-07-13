@@ -4,11 +4,11 @@ About me:
 
 - 🔭 I’m currently working on application architecture based on  Java/J2EE, Hyperledger Fabric, Etherum , etc
 - 🌱 Learning whatever new thing is unknown to me.
-- 👯 Open to collaborate on Blockchain technologies likes Ethereum , Hyperledger etc.
+- 👯 I’m looking to collaborate with other awesome creators
 - 🤔 Looking for Good Projects.
 - 💬 Ask me about distributed architecture,blockchain, web technologies etc
 - 📫 Reach me  at renjithkn@gmail.com
-- ⚡ Fun fact: Watching movies,Loves playing cricket
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renjithpta&label=Profile%20views&color=0e75b6&style=flat" alt="renjihpta" /> </p>
