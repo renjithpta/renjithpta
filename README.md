@@ -17,10 +17,7 @@ About me:
 <h3 align="left">Connect with me:</h3>
 <p align="left" width="100%'>
   
-[![Renjith Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renjith-narayanan-1449b912/)
-  
-  [![Renjith YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCmt1G_tn9cdQ4Gjqw9yaL3g)
-[![Renjith KN Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@renjithkn-67435)
+[![Renjith Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renjith-narayanan-1449b912/) [![Renjith YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCmt1G_tn9cdQ4Gjqw9yaL3g) [![Renjith KN Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@renjithkn-67435)
 
 </p>
 
