@@ -47,6 +47,10 @@ About me:
 - Go
 
 ## Certificates
-- 2021-12-18 Terraform Associate
-- 2020-11 Certified Kubernetes Administrator
-- 2011-12 CET-6 (College English Test)
+- Certified Hyperledger Fabric Developer,Kerala Blockchain Academy
+- Certified Etherum Developer https://verify.kba.ai/view/IIITMK-KBA-0204019-CED-20_b458b16549d8d05b88ba78caf7494aa1
+- Gremlin Certified Chaos Engineering Practitioner - GCCEP
+- Certified Blockchain Associate :https://verify.kba.ai/view/IIITMK-KBA-0101019-CBA-20_b458b16549d8d05b88ba78caf7494aa1
+- Certified Etherum Developer https://verify.kba.ai/view/IIITMK-KBA-0204019-CED-20_b458b16549d8d05b88ba78caf7494aa1
+                                                                                                               
+                                                                                                              
