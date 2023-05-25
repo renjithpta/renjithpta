@@ -31,3 +31,22 @@ About me:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renjithpta" alt="renjithpta" /></p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=renjithpta)  
+                                                                                                               
+ ## My Skills
+- Java/J2EE
+- Maven
+- Oracle/PostgreSQL/MySQL
+- Spring/Spring Boot/Spring Cloud
+- Docker
+- Kubernetes
+- AWS
+- Azure
+- Hyperledger Fabric
+- Solidity                                                                                                            
+- NodeJs/TypeScript
+- Go
+
+## Certificates
+- 2021-12-18 Terraform Associate
+- 2020-11 Certified Kubernetes Administrator
+- 2011-12 CET-6 (College English Test)
