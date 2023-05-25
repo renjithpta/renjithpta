@@ -48,7 +48,7 @@ About me:
 
 ## Certificates
 - Certified Hyperledger Fabric Developer,Kerala Blockchain Academy
-- Certified Etherum Developer https://verify.kba.ai/view/IIITMK-KBA-0204019-CED-20_b458b16549d8d05b88ba78caf7494aa1
+- Certified Hyperledger Fabric (CHF Online) Developer. https://verify.kba.ai/view/IIITMK-KBA-03003-CHF-OL-21
 - Gremlin Certified Chaos Engineering Practitioner - GCCEP
 - Certified Blockchain Associate :https://verify.kba.ai/view/IIITMK-KBA-0101019-CBA-20_b458b16549d8d05b88ba78caf7494aa1
 - Certified Etherum Developer https://verify.kba.ai/view/IIITMK-KBA-0204019-CED-20_b458b16549d8d05b88ba78caf7494aa1
