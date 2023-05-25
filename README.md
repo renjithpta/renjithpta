@@ -53,5 +53,4 @@ About me:
 - Certified Blockchain Associate :https://verify.kba.ai/view/IIITMK-KBA-0101019-CBA-20_b458b16549d8d05b88ba78caf7494aa1
 - Certified Etherum Developer https://verify.kba.ai/view/IIITMK-KBA-0204019-CED-20_b458b16549d8d05b88ba78caf7494aa1
                                                                                                                
-                                                                                                               
-                                                                                                                                         FInd out my tech articles at my webSite [www.renjithkn-blogs.ml](https://www.renjithkn-blogs.ml), hope you can find something useful for you.                                                                                 
+I'm writing tech articles on my webSite [www.renjithkn-blogs.ml](https:/renjithkn-blogs.ml), hope you can find something useful for you.
